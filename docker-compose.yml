@@ -1,0 +1,7 @@
+version: "3"
+services:
+  teneo-bot:
+    container_name: teneo-bot
+    build:
+      context: .
+    restart: always
