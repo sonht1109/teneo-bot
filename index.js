@@ -20,7 +20,7 @@ let browserIds = [];
 let proxies = [];
 let accessTokens = [];
 let accounts = [];
-let useProxy = true;
+let useProxy = false;
 let enableAutoRetry = true;
 let currentAccountIndex = 0;
 
